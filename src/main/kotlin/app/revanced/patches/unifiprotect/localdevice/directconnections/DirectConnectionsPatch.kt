@@ -1,4 +1,4 @@
-package app.revanced.patches.unifiprotect.localdevices
+package app.revanced.patches.unifiprotect.localdevice.directconnections
 
 import app.revanced.patcher.data.BytecodeContext
 import app.revanced.patcher.extensions.InstructionExtensions.addInstructionsWithLabels
@@ -9,7 +9,7 @@ import app.revanced.patcher.patch.annotation.CompatiblePackage
 import app.revanced.patcher.patch.annotation.Patch
 import app.revanced.patcher.patch.options.types.StringPatchOption.Companion.stringPatchOption
 import app.revanced.patcher.util.proxy.mutableTypes.MutableMethod.Companion.toMutable
-import app.revanced.patches.unifiprotect.localdevices.fingerprints.DirectConnectionsMethodFingerprint
+import app.revanced.patches.unifiprotect.localdevice.directconnections.fingerprints.DirectConnectionsMethodFingerprint
 import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.builder.MutableMethodImplementation
 import com.android.tools.smali.dexlib2.immutable.ImmutableMethod

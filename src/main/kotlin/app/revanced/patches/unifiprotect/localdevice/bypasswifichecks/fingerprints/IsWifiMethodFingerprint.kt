@@ -1,4 +1,4 @@
-package app.revanced.patches.unifiprotect.bypasswifichecks.fingerprints
+package app.revanced.patches.unifiprotect.localdevice.bypasswifichecks.fingerprints
 
 import app.revanced.patcher.fingerprint.method.impl.MethodFingerprint
 

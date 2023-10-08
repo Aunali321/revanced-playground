@@ -1,4 +1,4 @@
-package app.revanced.patches.unifiprotect.ipvalidation.fingerprints
+package app.revanced.patches.unifiprotect.localdevice.ipvalidation.fingerprints
 
 import app.revanced.patcher.fingerprint.method.impl.MethodFingerprint
 import com.android.tools.smali.dexlib2.Opcode
