@@ -1,3 +1,10 @@
+# [2.194.0-dev.3](https://github.com/Aunali321/revanced-playground/compare/v2.194.0-dev.2...v2.194.0-dev.3) (2023-10-08)
+
+
+### Features
+
+* **unifi-protect:** add `Hide network error dialog` ([52fd7b2](https://github.com/Aunali321/revanced-playground/commit/52fd7b2953ccba6343c7e842affdf4c0d8be8a84))
+
 # [2.194.0-dev.2](https://github.com/Aunali321/revanced-playground/compare/v2.194.0-dev.1...v2.194.0-dev.2) (2023-10-08)
 
 
