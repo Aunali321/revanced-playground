@@ -1,3 +1,24 @@
+# [2.194.0-dev.3](https://github.com/Aunali321/revanced-playground/compare/v2.194.0-dev.2...v2.194.0-dev.3) (2023-10-08)
+
+
+### Features
+
+* **unifi-protect:** add `Hide network error dialog` ([52fd7b2](https://github.com/Aunali321/revanced-playground/commit/52fd7b2953ccba6343c7e842affdf4c0d8be8a84))
+
+# [2.194.0-dev.2](https://github.com/Aunali321/revanced-playground/compare/v2.194.0-dev.1...v2.194.0-dev.2) (2023-10-08)
+
+
+### Features
+
+* **unifi-protect:** add `Hide device not found dialog` ([1cb17cb](https://github.com/Aunali321/revanced-playground/commit/1cb17cbc57d49ef8affec940a43dd0b1abf1ab5a))
+
+# [2.194.0-dev.1](https://github.com/Aunali321/revanced-playground/compare/v2.193.0...v2.194.0-dev.1) (2023-10-08)
+
+
+### Features
+
+* add patches for `Unifi Protect` ([2a2fdc2](https://github.com/Aunali321/revanced-playground/commit/2a2fdc2399da5f53cf32fbe82173ac7a36e80eb1))
+
 # [2.193.0](https://github.com/ReVanced/revanced-patches/compare/v2.192.0...v2.193.0) (2023-10-08)
 
 
